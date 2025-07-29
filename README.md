@@ -3,11 +3,6 @@
 
 An interactive Streamlit app to analyze historical stock price, visualize returns, and compute key risk metrics like daily volatility, cumulative return, and return distribution.
 
-## 🚀 Live Preview
-> You can host this app on [Streamlit Cloud](https://streamlit.io/cloud)
-
----
-
 ## 📌 Features
 
 - 📊 Visualize historical stock closing prices
